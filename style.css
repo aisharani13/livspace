@@ -1,0 +1,56 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.dropdown :hover {
+    color: rgb(233, 101, 101);
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.ar {
+    background-color: #20bd57;
+
+}
+
+.ar a {
+    color: #20bd57;
+}
+
+.fg {
+    background-image: url(bck.png);
+    height: 500px;
+   
+   
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1{
+    font-size: 65px;
+   
+}
+@media screen and (max-width:500px){
+    h1{
+        font-size: 25px;
+       
+    }
+}
+.ng{background-color: #3417c7;}
+a{
+    text-decoration: none;
+   }
+   #icon{
+    margin-right: 0px;
+   }
+   #icon a{
+    transition: all 0.2s 0.1s;
+     color: rgb(248, 249, 250);
+    }
+   #icon a:hover{
+   
+    color: rgb(255, 0, 0);
+   }

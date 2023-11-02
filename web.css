@@ -1,0 +1,106 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.ar {
+    background-color: #20bd57;
+
+}
+
+.dropdown :hover {
+    color: rgb(233, 101, 101);
+}
+
+#icon a:hover {
+
+    color: rgb(255, 0, 0);
+}
+
+.ng {
+    background-color: #3417c7;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+#icon {
+    margin-right: 0px;
+}
+
+#icon a {
+    transition: all 0.2s 0.1s;
+    color: rgb(248, 249, 250);
+}
+
+.fg {
+    background-image: url(round.png);
+    height: 600px;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.cm {
+    color: rgb(15, 15, 90);
+}
+
+.hj {
+
+    padding: 14px 35px 14px 35px;
+    background-image: linear-gradient(#f27c1e 0%, #dd4c23 79%);
+}
+
+.dog a {
+    text-decoration: none;
+
+}
+
+.kb {
+    background-color: #000070;
+}
+
+.jk {
+    display: inline-block;
+    position: relative;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    border-radius: 100%;
+    text-align: center;
+    background: #ffffff;
+
+}
+
+.jk .icon {
+    text-align: center;
+    color: #f95f11;
+    border-radius: 100%;
+    font-size: 25px;
+    position: relative;
+    line-height: 70px;
+    z-index: 9;
+    width: 100%;
+    vertical-align: middle;
+    margin-left: 0;
+    height: auto;
+    margin-bottom: 35px;
+}
+
+.er {
+    padding: 14px 40px 14px 40px;
+    background-image: linear-gradient(250deg, #ff6622 19%, #e08f6c 100%);
+    border-radius: 30px 30px 30px 30px;
+}
+
+.er:hover {
+
+    background-image: linear-gradient(250deg, #4e95ed 19%, #0c2786 100%);
+
+}
